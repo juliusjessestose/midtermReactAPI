@@ -1,0 +1,38 @@
+.navbar {
+  padding: 20px;
+}
+#navbarSupportedContent li a {
+  width: 150px;
+  text-align: center;
+}
+#navbarSupportedContent {
+  margin-left: 80%;
+}
+  span {
+    border-right: 1px solid rgba(199, 219, 220, 0.429);
+    height: 20px;
+    margin-top: 20px;
+  }
+tbody tr td {
+  border: 1px solid black;
+  text-align: center;
+}
+table thead th {
+  border: 1px solid black;
+  text-align: center;
+}
+table thead {
+  background-color: rgba(53, 68, 197, 0.596);
+}
+.btn i {
+  font-size: 30px;
+  text-decoration: none;
+}
+#submit {
+  width: 120px;
+}
+.fa {
+  border-radius: 10px;
+  box-shadow: 0px 24px 9px 0px #000000c0;
+  height: 15px;
+}
